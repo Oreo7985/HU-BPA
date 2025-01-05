@@ -23,12 +23,12 @@ Ensure the browser options are configured correctly:
 - Set Input Mode to "Hardware Events" in the browser properties
 - This setting is crucial for proper automation execution
 
-![3](./instruction.png)
+![3](./pic/instruction.png)
 
 ### 4. Workflow Preview
 The image below shows the main sequence structure:
 
-![Main Sequence](./Main%20Sequence.jpg)
+![Main Sequence](./pic/Main%20Sequence.jpg)
 
 ## Execution
 After completing the setup, simply run the workflow to start the automation process.
