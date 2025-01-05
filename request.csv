@@ -1,0 +1,2 @@
+id,customer_email,language,language_need_to_be_translated,place,date,weekday,time_from,time_to,duration
+1,john@example.com,English,Spanish,New York,2025-01-05,Sun,14:00,15:00,60
